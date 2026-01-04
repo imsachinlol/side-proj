@@ -218,7 +218,7 @@ def load_audio_base64(audio_path):
 FRIEND_NAME = "Shradddhhaaa"
 # Set to your desired date
 BIRTHDAY_DATETIME = datetime(
-    2026, 1, 5, 0, 0, 0,
+    2026, 1, 4, 17, 8, 0,
     tzinfo=timezone(timedelta(hours=5, minutes=30))
 )
 
